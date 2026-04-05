@@ -2,10 +2,6 @@
 
 SkillSwap is a peer-to-peer platform where users exchange skills instead of paying money. The platform connects individuals who want to teach a skill with others who want to learn it, creating a collaborative knowledge-sharing community.
 
-## Live Demo
-
-https://skillswap.vercel.app
-
 ## Overview
 
 SkillSwap is built around the idea that knowledge should be accessible and collaborative. Instead of paying for courses or tutoring, users can trade the skills they already possess in exchange for learning something new.
